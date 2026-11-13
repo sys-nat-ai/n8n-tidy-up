@@ -1,0 +1,4 @@
+interface:
+  display_name: "n8n Tidy Up"
+  short_description: "Artistically compose n8n workflow layouts via MCP"
+  default_prompt: "Use $n8n-tidy-up with an artistic designer's eye to compose this workflow into a beautiful box-shaped layout through MCP, preserving behavior and branch execution order."
